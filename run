@@ -1,7 +1,6 @@
 #!/bin/bash
 set -e
 PLUGINS_ENDPOINT=http://updates.jenkins-ci.org/latest/
-CONFIG_ENDPOINT=http://gerencia.ufba.br/auto
 
 DATA=/var/lib/jenkins
 CONF_FOLDER=/root
